@@ -10,7 +10,7 @@ const NavbarComponents = () => {
         data-bs-theme="light"
         className="shadow">
         <Container>
-          <Navbar.Brand href="#home" className="fs-3 fw-bold">
+          <Navbar.Brand href="/" className="fs-3 fw-bold">
             Kow
             <span style={{ color: "#3A8B91" }} className="">
               Deen

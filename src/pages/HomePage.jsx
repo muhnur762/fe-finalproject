@@ -9,11 +9,11 @@ import { Link } from "react-router-dom";
 const HomePage = () => {
   return (
     <div className="homepage w-200 min-vh-100">
-      <header className="w-100 min-vh-100 d-flex align-items-center justify-content-center">
+      <header className="w-100 min-vh-100 d-flex align-items-center justify-content-center home">
         <Container>
           <Row className="header-box d-flex align-items-center">
             <Col lg="6">
-              <h1 className="mb-4">
+              <h1 className="mb-4 fw-bold">
                 Temukan <br /> <span>Lowongan Pekerjaan</span> <br /> Bersama
                 Kami!
               </h1>
